@@ -1,8 +1,12 @@
 ---
-created: ["{{date}} {{time}}"]
-aliases: ["{{title}}"]
+created:
+  - "{{date}} {{time}}"
+aliases:
+  - "{{title}}"
 tags:
-- CourseNote/
+  - Note/Review
+  - Project
+  - Topic
 ---
 
 # ❗❓ Information

@@ -45,7 +45,7 @@ tags:
     - Base information for a course
 - [[0A_4_2_CourseNote]]
     - Base configuration for course notes summary
-- [[0A_4_3_CourseNote_V2]]
+- [[0A_8_2_LiteratureReview]]
     - Base configuration for course notes summary Version 2
 ## 5️⃣ - Decision Making
 - [[0A_5_1_DecisionMaking]]
