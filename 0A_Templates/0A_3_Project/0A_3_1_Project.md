@@ -1,45 +1,41 @@
 ---
-created: ["{{date: DD-MM-YYYY}} {{time}}"]
-aliases: ["Project Code"]
+created: {{date}} {{time}}
+status: active/planning/completed
 tags:
-- Project/
+  - Project/
 ---
 
-# 🚀 Project -> 
-___
+# Project: {{title}}
 
-## 🧾 Project Description
-- 
----
-## 📢 Project information
-Created:: {{date: DD-MM-YYYY}} {{time}}
-Deadline:: 
-Hibernating:: 
-Completion date expected:: 
-Completed:: 
-Type:: 
-Tags:: 
-Platform:: 
+## Overview
+- Brief description of the project
 
-___
-## 🎯 Objective
+## Objectives
+- [ ] Primary objective
+- [ ] Secondary objective
+- [ ] Tertiary objective
 
-1. 🟢 Ideal project result
-	1. 
-2. 🟠 Acceptable result
-	1. 
-## ❓ Expectations
-1. 🟢 Helpful to the project
-	1. 
-2. 🟠 Roadblocks
-	1. 
-3. 👶 Naivety
-	1. 
-4. 👨‍💻 Insights
-	1. 
-## ✅ Tasks 
-- 
-## 📦 Resources 
-- 
-## 📂 Project Logs 
-- 
+## Methods
+- Approach and methodology
+- Key techniques
+
+## Current Progress
+- Status and recent developments
+
+## Action Items
+- [ ] Next steps
+- [ ] Tasks to complete
+
+## Resources
+- [[Related Note 1]]
+- [[Related Note 2]]
+- External resources
+
+## Timeline
+- Key milestones and deadlines
+
+## Project Information
+- Created: {{date: YYYY-MM-DD}} {{time}}
+- Deadline: 
+- Completion expected: 
+- Completed:

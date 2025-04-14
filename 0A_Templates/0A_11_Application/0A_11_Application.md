@@ -5,13 +5,13 @@ tags:
 ---
 
 
-# ❗ Information
+# Information
 Related to:: 
 Tags:: 
 
-# 💻 Application -> 
+# Application -> 
 
-## 🧾 Description
+## Description
 - 
-## 🌐 Link
+## Link
 - 

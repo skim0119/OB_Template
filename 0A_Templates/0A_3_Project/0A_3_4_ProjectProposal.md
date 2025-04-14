@@ -5,7 +5,7 @@ tags:
 - Project/
 ---
 
-# 🚀 - Project Data
+# Project Data
 ---
 1. Project Name:
 2. Project Sponsor:
@@ -15,36 +15,36 @@ tags:
 
 ---
 
-# 📜 Project Information
+# Project Information
 
-## 1️⃣ -> Project Description
+## Project Description
 - Give background to the project and state the project's purpose.
-## 2️⃣ -> Scope
+## Scope
 - State what is in scope and also what is out of scope
-## 3️⃣ -> Business Case
+## Business Case
 - Outline the justification for starting the project, including: financials and time scales if applicable.
 
 --- 
-# ⚠ Constraints
+# Constraints
 
-##  1️⃣ -> Time
+## Time
 - Describe any deadline that exists 
-## 2️⃣ -> Quality
+## Quality
 - Describe any quality criteria that exists
-## 3️⃣ -> Budget
+## Budget
 - Describe any budgetary constraint's that exists
-## 4️⃣ -> Scope
+## Scope
 - Is the scope flexible ?
 
 --- 
-# 📦-> Deliverables and Benefits
+# Deliverables and Benefits
 
-## 1️⃣ -> Project Deliverables
+## Project Deliverables
 - Outline what deliverables are to be produced by the project 
 
-## 2️⃣ -> Benefits
+## Benefits
 - Describe the benefits from the project
 
 --- 
-# ❗❗ -> Risks
+# Risks
 - Describe any known risks or possible risks here

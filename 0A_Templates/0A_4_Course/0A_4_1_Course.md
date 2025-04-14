@@ -1,36 +1,35 @@
 ---
-created: ["{{date}} {{time}}"]
-aliases: ["Course Code:"]
+created: {{date}} {{time}}
+updated: {{date}}
+status: in-progress/completed
 tags:
-- Course/
+  - Course/
 ---
 
-# 📃 Course -> 
+# Course: {{title}}
 
----
-# ❓ Information
-Type:: 
-Speaker:: 
-Course-Origin:: 
-Subject:: 
-Tags:: 
-Started Reading on:: 
-Completed on:: 
-Perched on:: 
-Price:: 
-Certification:: 
+## Overview
+- Brief description of the course
+- Core topics and learning objectives
 
-# 🌍 What It's About
--   
----
+## Details
+- Key course content
+- Main concepts covered
+- Learning outcomes
 
-## 📜 Notes and Ideas
+## Assignments
+- [ ] Assignment 1
+- [ ] Assignment 2
 
-## 🎯 Assignments
-- 
-## ⌛ Lectures
-- 
-## 📦 Resources
-- 
-## 📅 Important Dates
-- 
+## Lectures
+- Lecture 1 (date): topic
+- Lecture 2 (date): topic
+
+## Resources
+- Textbooks
+- Online materials
+- [[Related Notes]]
+
+## Important Dates
+- Exam dates
+- Assignment deadlines

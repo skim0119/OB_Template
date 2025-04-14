@@ -1,31 +1,29 @@
 ---
-aliases: ["Topic: {{title}}", "Project:"]
-created: ["{{date}} {{time}}"]
+created: {{date}} {{time}}
+attendees: []
+project: 
 tags:
-- Meeting/
+  - Meeting/
 ---
 
-# 🚀 Meeting -> 
+# Meeting: {{title}} - {{date: YYYY-MM-DD}}
 
----
-## 📢 - Project information
-Created::. {{date: DD-MM-YYYY}} {{time}}
-Deadline:: 
-Hibernating::. 
-Completion date expected:: 
-Completed:: 
-Type:: 
-Tags:: 
-Platform:: 
-Meeting Members :: 
-# 📅 - Agenda
-1. 
-# 🎯 - Goals
-1. 
-# 📝 - Discussion notes
-- 
+## Agenda
+- [ ] Topic 1
+- [ ] Topic 2
 
-# 💠 - Action items
-- [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks & Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
+## Discussion Points
+- Key point 1
+  - Details
+- Key point 2
+  - Details
+
+## Action Items
+- [ ] Task 1 @person
+- [ ] Task 2 @person
+
+## Research Questions
+- Questions that arose during meeting
+
+## Follow-up
+- Next meeting date/time

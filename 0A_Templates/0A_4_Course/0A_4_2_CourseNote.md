@@ -1,20 +1,27 @@
 ---
-created:
-  - "{{date}} {{time}}"
-aliases:
-  - "{{title}}"
+created: {{date}} {{time}}
+course: [[Course Name]]
+lecture: 
+date: {{date: YYYY-MM-DD}}
 tags:
-  - Note/
+  - CourseNote/
 ---
 
-# ❗❓ Information
-Related to:: 
-Tags:: 
+# Lecture Note: {{title}}
 
-# 🌌 Course -> 
----
+## Summary
+- Brief summary of lecture content
 
-# ❗ Description
+## Key Concepts
+- Concept 1
+  - Details
+- Concept 2
+  - Details
 
- 
-## ❗ Answer
+## Questions
+- Question 1
+- Question 2
+
+## Related Content
+- [[Related Note]]
+- External resources
