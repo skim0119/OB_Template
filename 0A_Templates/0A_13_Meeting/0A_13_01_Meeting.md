@@ -1,5 +1,5 @@
 ---
-created: <% tp.file.creation_date() %>
+created: ["{{date}} {{time}}"]
 attendees: []
 project: 
 tags:

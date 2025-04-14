@@ -1,10 +1,10 @@
 ---
-created: {{date}} {{time}}
-project: [[Project Link]]
+created:
+  - "{{date}} {{time}}"
+project: 
 due_date: 
 status: planning/in-progress/completed
-tags:
-  - ActionPlan/
+tags: []
 ---
 
 # Action Plan: {{title}}

@@ -1,6 +1,5 @@
 ---
-created: {{date}}
-updated: {{date}}
+created: ["{{date}} {{time}}"]
 aliases:
   - Alternative Title 1
   - Alternative Title 2

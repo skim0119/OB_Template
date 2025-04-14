@@ -1,8 +1,7 @@
 ---
-created: {{date}} {{time}}
+created: ["{{date}} {{time}}"]
 related:
-  - [[Linked Note 1]]
-  - [[Linked Note 2]]
+  - 
 tags:
   - "#Project/"
   - "#Topic/"

@@ -1,5 +1,5 @@
 ---
-created: {{date}} {{time}}
+created: ["{{date}} {{time}}"]
 author: 
 published: 
 genre: 

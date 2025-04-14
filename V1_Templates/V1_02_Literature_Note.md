@@ -1,11 +1,10 @@
 ---
-created: {{date}} {{time}}
-citekey: authorYYYY
+created:
+  - "{{date}} {{time}}"
 authors: 
 year: 
 title: "{{title}}"
 tags:
-  - Literature/
   - Topic/
 ---
 

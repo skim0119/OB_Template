@@ -1,10 +1,11 @@
 ---
-created: {{date}} {{time}}
-course: [[Course Name]]
+created:
+  - "{{date}} {{time}}"
+course: 
 lecture: 
-date: {{date: YYYY-MM-DD}}
-tags:
-  - CourseNote/
+date:
+  "{ date: YYYY-MM-DD }": 
+tags: []
 ---
 
 # Lecture Note: {{title}}

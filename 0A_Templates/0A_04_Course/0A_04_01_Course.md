@@ -1,6 +1,5 @@
 ---
-created: {{date}} {{time}}
-updated: {{date}}
+created: ["{{date}} {{time}}"]
 status: in-progress/completed
 tags:
   - Course/

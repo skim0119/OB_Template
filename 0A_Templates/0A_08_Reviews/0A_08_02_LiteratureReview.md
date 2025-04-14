@@ -1,6 +1,5 @@
 ---
-created: {{date}} {{time}}
-updated: {{date}}
+created: ["{{date}} {{time}}"]
 related_project: 
 topic_area:
 tags:

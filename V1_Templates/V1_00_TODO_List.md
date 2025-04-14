@@ -1,5 +1,5 @@
 ---
-created: {{date}} {{time}}
+created: ["{{date}} {{time}}"]
 tags:
   - Task/
 ---

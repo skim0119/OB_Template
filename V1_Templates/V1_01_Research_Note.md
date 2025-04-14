@@ -1,11 +1,10 @@
 ---
-created: {{date}} {{time}}
-updated: {{date}}
-aliases: []
+created:
+  - "{{date}} {{time}}"
+aliases: 
 tags:
   - Topic/
   - Project/
-  - Status/
 ---
 
 # {{title}}

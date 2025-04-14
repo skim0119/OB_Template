@@ -1,6 +1,6 @@
 ---
-created: ["{{date: DD-MM-YYYY}} {{time}}"]
-aliases: ["Project: "]
+created: ["{{date}} {{time}}"]
+aliases: 
 tags:
 - Project/
 ---

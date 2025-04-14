@@ -3,6 +3,7 @@ aliases: ["V1 Index"]
 tags:
 - Frame/IndexTemplates
 ---
+
 # V1 Templates Index
 ---
 # Templates
