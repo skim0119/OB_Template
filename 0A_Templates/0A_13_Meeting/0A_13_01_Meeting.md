@@ -1,12 +1,12 @@
 ---
-created: {{date}} {{time}}
+created: <% tp.file.creation_date() %>
 attendees: []
 project: 
 tags:
   - Meeting/
 ---
 
-# Meeting: {{title}} - {{date: YYYY-MM-DD}}
+# Meeting: <% tp.file.title %> - <% tp.date.now("YYYY-MM-DD") %>
 
 ## Agenda
 - [ ] Topic 1
@@ -26,4 +26,4 @@ tags:
 - Questions that arose during meeting
 
 ## Follow-up
-- Next meeting date/time
+- Next meeting date: <% tp.date.now("YYYY-MM-DD", 7) %>
